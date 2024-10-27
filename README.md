@@ -29,6 +29,7 @@ If your controller is NS type we cannot guarantee if it works 100% (too much pro
 The game is only verified to be working as intended on windows revisions up until Windows 10 20H2 revision. 
 Beyond that revison it's out of my control and nor will there be any hope of making compatibilities specifically for the unintended system (at least from me).
 
+If any graphical glitch occurs, please make sure your Direct X 9 or Direct X 11 dependencies is correctly installed before report as a reproduce-able bug!!!
 
 
 #### About "LC2_KeyBinding.ini" #### 
