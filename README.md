@@ -70,10 +70,11 @@ It's something about your setting of VSync under Direct X 9 mode. If your only g
 
 ## Changelog
 
-#### [1.5.5] - 20245/1/10 #### 
+#### [1.5.5] - 2025/1/10 #### 
 
 `CHANGED` - The logic of control config screen; The joypad remap and keyboard remap functions can be individually selected instead of cramming everything into the same config screen.     (Aceearly1993)  
 `ADDED` - Important elements to reflect the changes of control config.     (Aceearly1993)  
+`FIXED` - Underground Aqueduct: An out of bound bug which can happen if you strike a breakable wall while sticking very close to the breakable wall in question.    (Aceearly1993)  
 
 
 #### [1.5.4] - 2024/10/1 #### 
