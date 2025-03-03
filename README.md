@@ -70,6 +70,17 @@ It's something about your setting of VSync under Direct X 9 mode. If your only g
 
 ## Changelog
 
+#### [1.5.6] - 2025/2/28 #### 
+
+`EXPERIMENT` - Changed Skeleton Gunman's behavior so that his bullet will now be a physical object instead of the bullet instantly reaches you as soon as he fires his gun.   
+This change will have side effects so that the properties of his shots will no longer be identical to vanilla.   (Aceearly1993)  
+`ADDED` - Arrow notations on a statue at Guernon University when the mechanism inside the statue is pulled down.   (Aceearly1993)  
+`FIXED` -  An attempt to fix a irregular, bug-like phenomenon which the knockback animation will be incorrect if try to step on stairs 
+while very close to an airbone enemy who's sticking to the air.  (Aceearly1993)  
+`CHANGED` - Reorganized size of ending/credit roll text strings to make text size not too big (DX9 only).  (Aceearly1993)  
+`CHANGED` - Global Event editor: Reorganized platform/stair events to be in groups more visible.  (Aceearly1993)  
+
+
 #### [1.5.5] - 2025/1/10 #### 
 
 `CHANGED` - The logic of control config screen; The joypad remap and keyboard remap functions can be individually selected instead of cramming everything into the same config screen.     (Aceearly1993)  
