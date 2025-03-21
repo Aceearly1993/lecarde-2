@@ -23,6 +23,21 @@ The same could be applied to Xbox Controllers by repeating the setup above while
 
 If your controller is NS type we cannot guarantee if it works 100% (too much problems with the game's bottom structure) but we provided baseline support and NS type controller label anyway.
 
+#### Read this if you encountered random crash exit when pausing #### 
+
+It may or may not have something to do with system compatibility, but make sure you have all the font installed which the game demanded:
+
+Arial Unicode MS (DX11)  
+Baskerville Old Face (DX9)  
+MS UI Gothic  
+Tahoma   
+Old English Text MT (DX9)  
+Californian FB  (DX9)  
+新宋体 (DX9)  
+黑体 (DX9)  
+
+If some of the fonts did not get installed in you computer, the game will be unable to find them and thus cause problems.
+
 
 #### System compatibility warning #### 
 
@@ -75,10 +90,11 @@ It's something about your setting of VSync under Direct X 9 mode. If your only g
 `EXPERIMENT` - Changed Skeleton Gunman's behavior so that his bullet will now be a physical object instead of the bullet instantly reaches you as soon as he fires his gun.   
 This change will have side effects so that the properties of his shots will no longer be identical to vanilla.   (Aceearly1993)  
 `ADDED` - Arrow notations on a statue at Guernon University when the mechanism inside the statue is pulled down.   (Aceearly1993)  
-`FIXED` -  An attempt to fix a irregular, bug-like phenomenon which the knockback animation will be incorrect if try to step on stairs 
-while very close to an airbone enemy who's sticking to the air.  (Aceearly1993)  
+`ADDED` - Instructions if you encountered crash exits for wrong reasons.  (Aceearly1993)  
+`FIXED` -  An attempt to fix a irregular, bug-like phenomenon which the knockback animation will be incorrect if try to step on stairs while very close to an airbone enemy who's sticking to the air.  (Aceearly1993)  
 `CHANGED` - Reorganized size of ending/credit roll text strings to make text size not too big (DX9 only).  (Aceearly1993)  
 `CHANGED` - Global Event editor: Reorganized platform/stair events to be in groups more visible.  (Aceearly1993)  
+`CHANGED` - Now you can carry 2 more High potions at once compared to vanilla.  (Aceearly1993)  
 
 
 #### [1.5.5] - 2025/1/10 #### 
