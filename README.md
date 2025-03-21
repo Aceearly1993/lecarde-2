@@ -32,6 +32,7 @@ Baskerville Old Face (DX9)
 MS UI Gothic  
 Tahoma   
 Old English Text MT (DX9)  
+Bookman Old Style (DX9)  
 Californian FB  (DX9)  
 新宋体 (DX9)  
 黑体 (DX9)  
