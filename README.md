@@ -94,6 +94,8 @@ This change will have side effects so that the properties of his shots will no l
 `ADDED` - Instructions if you encountered crash exits for wrong reasons.  (Aceearly1993)  
 `ADDED` - Ability to remember the window size set in video setting screen.  (Aceearly1993)  
 `FIXED` -  An attempt to fix a irregular, bug-like phenomenon which the knockback animation will be incorrect if try to step on stairs while very close to an airbone enemy who's sticking to the air.  (Aceearly1993)  
+`FIXED` -  A bug which keyboard input of Aura blast and Special action keys might be incorrect after entering control config through controller,
+but changes keyboard keys and exits to action scene as keyboard.  (Aceearly1993)  
 `FIXED` -  La Tourvelle Castle: An out of bound glitch which can be easily triggered and can cause progression problems. (Aceearly1993)  
 `CHANGED` - Reorganized size of ending/credit roll text strings to make text size not too big (DX9 only).  (Aceearly1993)  
 `CHANGED` - Global Event editor: Reorganized platform/stair events to be in groups more visible.  (Aceearly1993)  
