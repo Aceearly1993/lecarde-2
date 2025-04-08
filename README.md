@@ -94,6 +94,7 @@ This change will have side effects so that the properties of his shots will no l
 `ADDED` - Instructions if you encountered crash exits for wrong reasons.  (Aceearly1993)  
 `ADDED` - Ability to remember the window size set in video setting screen.  (Aceearly1993)  
 `ADDED` - keyboard prompt notations in most of the remaining screens to let keyboard player not lost too quick.  (Aceearly1993)  
+`FIXED` -  Servigny mansion's crypt: A bug which the size of one minimap mapchip object is incorrect.  (Aceearly1993)  
 `FIXED` -  A bug which will cause the game to crash exit if unplug and replug the controller, then reset the game.  (Aceearly1993)  
 `FIXED` -  An attempt to fix a irregular, bug-like phenomenon which the knockback animation will be incorrect if try to step on stairs while very close to an airbone enemy who's sticking to the air.  (Aceearly1993)  
 `FIXED` -  A bug which keyboard input of Aura blast and Special action keys might be incorrect after entering control config through controller,
