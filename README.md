@@ -1,3 +1,8 @@
+# The LC2 Rework Project
+
+![20250409095910](https://github.com/user-attachments/assets/0e346364-0437-4acb-b212-6ffd27f8c0fc)
+
+
 ## Description
 Source code of the fan-game Castlevania: The Lecarde Chronicles 2 made by Migami Games. Due to a HDD failure, the original source have been lost. This repo is an atempt to preserve, fix and improve this game.
 
@@ -13,6 +18,9 @@ The release of Lecarde Chronicles 2 got permitted by Konami, the game and its as
 
 
 ## Usage
+
+![20250409100057](https://github.com/user-attachments/assets/04215660-cfe0-4b11-9674-e89973b8a84e)
+
 To get the reworked game builds, go to "Releases", choose the latest "v*. *. *-alpha" tag and find the .exe files in the "Game Binary" zipped file. The .exe file is the generated executable, while the .mfa file in "Source Code" zipped file fis the (recovered) Clickteam Fusion project file necessary to generate the .exe (note in this game's case, it requires some extensions from Clickteam Fusion 2.5 Developer builds to be opened). 
 
 Note that the original game is infamous for the compatibility issue for PS4/Xbox controllers if your computers are unlucky so it left the controller preference blank. Here's a valid workaround to this issue if you encountered it like us:
@@ -24,6 +32,9 @@ The same could be applied to Xbox Controllers by repeating the setup above while
 If your controller is NS type we cannot guarantee if it works 100% (too much problems with the game's bottom structure) but we provided baseline support and NS type controller label anyway.
 
 #### Read this if you encountered random crash exit when pausing #### 
+
+![LC2](https://github.com/user-attachments/assets/c7aabe0e-0d57-4cc4-b29b-f8eda4737d0a)
+
 
 It may or may not have something to do with system compatibility, but make sure you have all the font installed which the game demanded:
 
@@ -49,6 +60,7 @@ If any graphical glitch occurs, please make sure your Direct X 9 or Direct X 11 
 
 
 #### About "LC2_KeyBinding.ini" #### 
+![20250409100627](https://github.com/user-attachments/assets/84dd9dd7-a641-4700-9e36-e246a3e2c3be)
 
 A reworked version of the keyboard control created by DragonX24.
 This file must be placed in the same directory the game locates if you downloaded the game and moved the game files to a fresh new location.
@@ -69,6 +81,9 @@ This way the game's pack method will be identical to vanilla but will cause anti
 
 
 #### Read this if antivirus softwares flagged the game as Malware ####
+
+![20250409100426](https://github.com/user-attachments/assets/cf167b0d-96bf-4a37-ac36-0515f2281368)
+
 It's something about Clickteam's engine itself. Antivirus softwares don't seem to be too kind towards some Games used Clickteam's engine. If the problem that the antivirus softwares flagged the game as malware occurs, either turn off the antivirus software in question, or add the game to its white list. Also avoid directly sharing the zips or folder(s) which contain the exe file unless really necessary because some net drive safety calculation like Google's, don't seem to be too happy with the game. 
 
 #### Read this if your screen capture program did not work in Reworked LC2 ####
