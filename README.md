@@ -101,6 +101,15 @@ It's something about your setting of VSync under Direct X 9 mode. If your only g
 
 ## Changelog
 
+#### [1.5.7] - 2025/4/17 #### 
+
+`FIXED` - Delbasee City park: A bug which will cause the 1000 g reward of a mutated plant to vanish.   (Aceearly1993)  
+`FIXED` - Gabrielle de La Tourvelle: A bug which will cause the Nine Gate book to vanish forever 
+if you (somehow) leave the room without picking the Nine Gate book she offered (by utilizing out of bound glitch at left wall of Gabrielle's room).   (Aceearly1993)  
+`CHANGED` - Gabrielle de La Tourvelle: Minor adjust to the order of her dialogue in order to fit the situation of the above fix.    (Aceearly1993)  
+
+
+
 #### [1.5.6] - 2025/2/28 #### 
 
 `EXPERIMENT` - Changed Skeleton Gunman's behavior so that his bullet will now be a physical object instead of the bullet instantly reaches you as soon as he fires his gun.   
