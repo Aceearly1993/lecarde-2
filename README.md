@@ -107,6 +107,9 @@ It's something about your setting of VSync under Direct X 9 mode. If your only g
 `FIXED` - Gabrielle de La Tourvelle: A bug which will cause the Nine Gate book to vanish forever 
 if you (somehow) leave the room without picking the Nine Gate book she offered (by utilizing out of bound glitch at left wall of Gabrielle's room).   (Aceearly1993)  
 `CHANGED` - Gabrielle de La Tourvelle: Minor adjust to the order of her dialogue in order to fit the situation of the above fix.    (Aceearly1993)  
+`CHANGED` - Rivoire Cave: Very slightly tweaked postion of several backgrounds in order to not make them too overlapped.  (Aceearly1993)  
+`ADDED` - Event editor: More notations of event related to enemy structure.   (Aceearly1993)  
+`ADDED` - Important notes on Readme (Simplified Chinese) to counter Chinese-specific crash issues.   (Aceearly1993)  
 
 
 
