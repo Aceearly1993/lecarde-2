@@ -104,10 +104,14 @@ It's something about your setting of VSync under Direct X 9 mode. If your only g
 #### [1.5.7] - 2025/4/17 #### 
 
 `FIXED` - Delbasee City park: A bug which will cause the 1000 g reward of a mutated plant to vanish.   (Aceearly1993)  
+`FIXED` - An oversight which prevented the situation of Spike Armor's properties against certain spikes to be identical to vanilla.   (Aceearly1993)  
+`FIXED` - A bug which will cause Efrain's movement stuck at the right wall of final boss room after a slide.  (Aceearly1993)  
 `FIXED` - Gabrielle de La Tourvelle: A bug which will cause the Nine Gate book to vanish forever 
 if you (somehow) leave the room without picking the Nine Gate book she offered (by utilizing out of bound glitch at left wall of Gabrielle's room).   (Aceearly1993)  
+`CHANGED` - Delbasee City park: Position of movement box of a mutated plant's head to prevent overlapping with the wall's collision on its back,
+disabling the possibilities of the 1000 g reward clipping into the wall.  (Aceearly1993)  
 `CHANGED` - Gabrielle de La Tourvelle: Minor adjust to the order of her dialogue in order to fit the situation of the above fix.    (Aceearly1993)  
-`CHANGED` - Rivoire Cave: Very slightly tweaked postion of several backgrounds in order to not make them too overlapped.  (Aceearly1993)  
+`CHANGED` - Rivoire Cave: Very slightly tweaked position of several backgrounds in order to not make them too overlapped.  (Aceearly1993)  
 `CHANGED` - Guernon University: Very slightly edited the neutral graphic of a breakable wall in order to prevent explore progression problems.   (Aceearly1993)  
 `ADDED` - Event editor: More notations of event related to enemy structure.   (Aceearly1993)  
 `ADDED` - Important notes on Readme (Simplified Chinese) to counter Chinese-specific crash issues.   (Aceearly1993)  
