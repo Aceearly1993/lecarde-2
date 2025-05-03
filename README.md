@@ -76,8 +76,14 @@ To make the game display 1:1 pixel perfect scale:
 
 #### About "Alternate build method" #### 
 
-"Alternate build method" is done as an attempt to keep a small quirk away - when saving at save spots, the game will get stuck for several seconds before finally active again.
-This way the game's pack method will be identical to vanilla but will cause antivirus flag to go mad so not recommended unless you want to go with loyalty and purity to vanilla.
+"Alternate build method" is done as an attempt to keep a small quirk away that the core plugin components of the game might be lost depending on player's local settings of firewalls, 
+but on some situations it will cause antivirus flag to go mad so not recommended unless you want to go with loyalty and purity to vanilla.
+
+
+#### About "Native Fullscreen resolution" #### 
+
+Some players did not like the intended aspect ratio for preference reasons and prefer stretched fullscreen scale so this is provided as an alternated option. 
+
 
 
 #### Read this if antivirus softwares flagged the game as Malware ####
@@ -100,6 +106,15 @@ It's something about your setting of VSync under Direct X 9 mode. If your only g
 
 
 ## Changelog
+
+#### [1.5.8] - 2025/5/4 #### 
+
+`FIXED` - A bug in the new control mapping system which will cause controller mapping to be lost if you ignored control config in the very first time booting the game, 
+go straight to action scene, then perform pause/map button pressing.   (Aceearly1993)  
+`CHANGED` - Targeting location of save file as an attempt to reduce the amount of time the game hangs/stucks when saving on some computers (for win10/win11/etc..). 
+The save files now shall be seen on the same directory as the game's executable instead of /Appdata/Roaming/MMFApplications.  (Aceearly1993)  
+`CHANGED` - Some details in readme because some informations on "alternate build method" are no longer accurate.  (Aceearly1993)  
+
 
 #### [1.5.7] - 2025/4/17 #### 
 
