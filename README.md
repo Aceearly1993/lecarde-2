@@ -111,9 +111,8 @@ It's something about your setting of VSync under Direct X 9 mode. If your only g
 
 `FIXED` - A bug in the new control mapping system which will cause controller mapping to be lost if you ignored control config in the very first time booting the game, 
 go straight to action scene, then perform pause/map button pressing.   (Aceearly1993)  
-`FIXED` - An oversight in the reworked boss rush timer formula which will cause victory music of Alcuard's boss rush result screen to be missing.  (Aceearly1993)  
-`CHANGED` - Targeting location of save file as an attempt to reduce the amount of time the game hangs/stucks when saving on some computers (for win10/win11/etc..). 
-The save files now shall be seen on the same directory as the game's executable instead of /Appdata/Roaming/MMFApplications.  (Aceearly1993)  
+`FIXED` - An oversight in the reworked boss rush timer formula which will cause victory music of Alucard's boss rush result screen to be missing.  (Aceearly1993)  
+`FIXED` - A vanilla bug which will cause normal backpack infinitely purchasable in extremely conditions. (Aceearly1993)  
 `CHANGED` - Some details in readme because some informations on "alternate build method" are no longer accurate.  (Aceearly1993)  
 
 
