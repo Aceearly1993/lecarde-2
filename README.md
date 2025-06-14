@@ -107,6 +107,19 @@ It's something about your setting of VSync under Direct X 9 mode. If your only g
 
 ## Changelog
 
+#### [1.5.9] - 2025/6/15 #### 
+
+`CHANGED` - Minor adjusts of in-game shop prices.    (Aceearly1993)  
+`CHANGED` - The invincibility time of enemies against Holy Water is now 2 frames shorter than vanilla.  (Aceearly1993)  
+`CHANGED` - Altar: The behavior of the heart recover zone to match the behavior of the same mechanic seen in prologue, 
+for a better presentation approach.  (Aceearly1993)  
+`CHANGED` - Leviathan: Changed color of post-hit flash effect to the same color as Lucifer's post-hit flash effect in order to reduce visual confusions.  (Aceearly1993)  
+`CHANGED` - Pause menu/Boss Rush/Endroll: Adjustments of mugshot graphics for a better presentation approach.  (Lee Russell /rinth444)  
+`ADDED` - Alucard Player ("main Alcarde visible") : Straight upward jump animation.  (Lee Russell /rinth444)  
+`ADDED` - Efrain player ("main hero visible") : Falling stance is now animated instead of a single graphic.  (Lee Russell /rinth444)  
+`ADDED` - Update of endroll credit informations.  (Aceearly1993)  
+
+
 #### [1.5.8] - 2025/5/4 #### 
 
 `FIXED` - A bug in the new control mapping system which will cause controller mapping to be lost if you ignored control config in the very first time booting the game, 
@@ -868,5 +881,6 @@ This version also introduces a bug due to new keyboard remap system, we are stil
 - jdbuenol
 - Exorion Hagen
 - 狼王之2型 (https://space.bilibili.com/936194) (Japanese re-translation)
-- ACC (a.k.a."得枫.德广")(https://space.bilibili.com/1471923), Astral "Bozo" Clocktower (Alucard animation enhance)  
+- ACC (a.k.a."得枫.德广")(https://space.bilibili.com/1471923), Astral "Bozo" Clocktower (Alucard animation enhance)
+- Lee Russell (rinth444) - animation enhancement
 ... and all the people in game credits.
