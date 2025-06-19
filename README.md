@@ -118,6 +118,7 @@ for a better presentation approach.  (Aceearly1993)
 `ADDED` - Alucard Player ("main Alcarde visible") : Straight upward jump animation.  (Lee Russell /rinth444)  
 `ADDED` - Efrain player ("main hero visible") : Falling stance is now animated instead of a single graphic.  (Lee Russell /rinth444)  
 `ADDED` - Update of endroll credit informations.  (Aceearly1993)  
+`FIXED` - Trianon: A vanilla graphical error which a black tile was missing and left unnoticed until JupiterClimb's livestreams.  (Aceearly1993)  
 
 
 #### [1.5.8] - 2025/5/4 #### 
