@@ -115,10 +115,21 @@ It's something about your setting of VSync under Direct X 9 mode. If your only g
 for a better presentation approach.  (Aceearly1993)  
 `CHANGED` - Leviathan: Changed color of post-hit flash effect to the same color as Lucifer's post-hit flash effect in order to reduce visual confusions.  (Aceearly1993)  
 `CHANGED` - Pause menu/Boss Rush/Endroll: Adjustments of mugshot graphics for a better presentation approach.  (Lee Russell /rinth444)  
+`CHANGED` - Properties of Holy Water so that it can reach following enemies:  
+Hanged  
+Possessed Tree  
+Upended Demon  
+Count La Tourvelle  
+Corpse Guest  
+Duke Guillecourt (black hole)  
+Lucifer  
+ (Aceearly1993)  
+
 `ADDED` - Alucard Player ("main Alcarde visible") : Straight upward jump animation.  (Lee Russell /rinth444)  
 `ADDED` - Efrain player ("main hero visible") : Falling stance is now animated instead of a single graphic.  (Lee Russell /rinth444)  
 `ADDED` - Update of endroll credit informations.  (Aceearly1993)  
 `FIXED` - Trianon: A vanilla graphical error which a black tile was missing and left unnoticed until JupiterClimb's livestreams.  (Aceearly1993)  
+`FIXED` - Dark Forest: One instance of Japanese text to be identical to other languages.  (Aceearly1993)  
 
 
 #### [1.5.8] - 2025/5/4 #### 
