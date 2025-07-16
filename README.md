@@ -107,6 +107,12 @@ It's something about your setting of VSync under Direct X 9 mode. If your only g
 
 ## Changelog
 
+#### [1.6.0] - 2025/7/16 #### 
+
+`ADDED` - Mini Map: Basic indicators in Castle of Eternal Night to not let newcomer player to get lost too quick.  (Aceearly1993)  
+`CHANGED` - Mini Map: Color of area transition room's mnimap mapchip color from green to grey in order to be consistent with the style in Chronicles of the Wolf.  (Aceearly1993)  
+`CHANGED` - Mini Map: Green color will move to location of Castle's vending machine's position.  (Aceearly1993)  
+
 #### [1.5.9] - 2025/6/15 #### 
 
 `CHANGED` - Minor adjusts of in-game shop prices.    (Aceearly1993)  
