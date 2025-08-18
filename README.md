@@ -113,6 +113,8 @@ It's something about your setting of VSync under Direct X 9 mode. If your only g
 `CHANGED` - Mini Map: Color of area transition room's minimap mapchip color from green to grey in order to be consistent with the style in Chronicles of the Wolf.  (Aceearly1993)  
 `CHANGED` - Mini Map: Green color will move to location of Castle's vending machine's position.  (Aceearly1993)  
 `FIXED` - Warp zone: Several instances of Simplified Chinese text embedded as graphics. (Aceearly1993)  
+`FIXED` - Item pickup: in the pickup recognization system, when [multiple heart/gold pickups of the same type/Variable were in the same spot and you touch 2 or more of them at once], 
+the game will properly recognize each of them instead of only recognize once.  (Aceearly1993)  
 
 #### [1.5.9] - 2025/6/15 #### 
 
