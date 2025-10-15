@@ -119,7 +119,7 @@ It's something about your setting of VSync under Direct X 9 mode. If your only g
 `FIXED` - Item pickup: in the pickup recognization system, when [multiple heart/gold pickups of the same type/Variable were in the same spot and you touch 2 or more of them at once], 
 the game will properly recognize each of them instead of only recognize once.  (Aceearly1993)  
 `FIXED` - A bug of controller un-plug>re-plug trigger after 1.5.7 if controller is unplugged, proceed with keyboard input, 
-then plugged controller again, the controller input will be forever lost.  (Aceearly1993)  
+then plugged controller again, the controller input will be forever lost. F6 serves as force re-connect hothey if auto recognization upon re-plug fails. (Aceearly1993)    
 
 
 #### [1.5.9] - 2025/6/15 #### 
