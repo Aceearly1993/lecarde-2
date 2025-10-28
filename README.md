@@ -111,6 +111,7 @@ It's something about your setting of VSync under Direct X 9 mode. If your only g
 
 `ADDED` - Config: Implemented on/off toggle for V-Sync and anti-alias. (Aceearly1993)  
 `ADDED` - System Config: A simple global volume control added. (Aceearly1993)  
+`ADDED` - Townspeople: Arrow notations on important npcs added just in case if there's any navigation issues.  (Aceearly1993)  
 `ADDED` - Mini Map: Basic indicators in Castle of Eternal Night to not let newcomer player to get lost too quick.  (Aceearly1993)  
 `CHANGED` - Mini Map: Color of area transition room's minimap mapchip color from green to grey in order to be consistent with the style in Chronicles of the Wolf.  (Aceearly1993)  
 `CHANGED` - Mini Map: Green color will move to location of Castle's vending machine's position.  (Aceearly1993)  
