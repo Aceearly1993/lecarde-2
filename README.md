@@ -97,7 +97,10 @@ Some capture programs will have compatibility issue with reworked LC2 on Windows
 
 
 #### Read this if you encountered framerate problem in fullscreen mode #### 
-It's something about your setting of VSync under Direct X 9 mode. If your only graphic device is a Nvidia GTX graphic card, toggle VSync in your Nvidia control panel to "fast" or "on" if you encountered frame rate problem in fullscreen mode.
+1. It might be something about your setting of VSync under Direct X 9 mode. If your only graphic card is a Nvidia GTX graphic card, toggle VSync in your Nvidia control panel to "fast" or "on" if you encountered
+frame rate problem in fullscreen mode.
+2. It might be something with how the engine dealt with graphic rendering; Only turn V-Sync off if you encountered input lag with V-Sync on.
+
 
 #### Known bugs #### 
 - If the game's project file is loaded through frame editor, quickly unfocus the game window by overlapping it with a larger window upon proceeding a frame change, when the next frame about to be loaded, the cursor will automatically move upwards. We tried multiple ways but cannot proceed bright results to rule out it. This shouldn't get in the way of normal gameplay on the generated .exes, though.
@@ -106,6 +109,14 @@ It's something about your setting of VSync under Direct X 9 mode. If your only g
 
 
 ## Changelog
+
+#### [1.6.1] - 2025/11/3 #### 
+
+`CHANGED` - Rivoire Cave: A spot in one vertical climbing section in order to make the backtracking in Ring of Fury mode more fair. (Aceearly1993)  
+`CHANGED` - Albaret Earldom: A spot in one vertical climbing section in order to make the backtracking in Ring of Fury mode more fair. (Aceearly1993)  
+`ADDED` - Readme: Waring of V-sync off (experimental).  
+
+
 
 #### [1.6.0] - 2025/7/16 #### 
 
