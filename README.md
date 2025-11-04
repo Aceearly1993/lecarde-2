@@ -114,7 +114,7 @@ frame rate problem in fullscreen mode.
 
 `CHANGED` - Rivoire Cave: A spot in one vertical climbing section in order to make the backtracking in Ring of Fury mode more fair. (Aceearly1993)  
 `CHANGED` - Albaret Earldom: A spot in one vertical climbing section in order to make the backtracking in Ring of Fury mode more fair. (Aceearly1993)  
-`ADDED` - Readme: Waring of V-sync off (experimental).  
+`ADDED` - Readme: Warning of V-sync off (experimental).  
 
 
 
