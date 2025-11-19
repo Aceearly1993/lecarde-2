@@ -112,9 +112,26 @@ frame rate problem in fullscreen mode.
 
 #### [1.6.1] - 2025/11/3 #### 
 
+`CHANGED` - Fully revamped title screen function.  
+- Grouped "New Game" and "Load Game" into a single secondary screen capable to access via "Game Start" in main options along with a new "Delete save" function; 
+It serves as a function to erase save file without having to manually navigate through save file's path.  (Aceearly1993)  
+- Grouped "Boss Rush", "Ring of Fury Mode" and "Sound room" into a single secondary menu capable to access via "Extras" in main options.  (Aceearly1993)  
+- Repositioned "Volume" into a secondary menu capable to access via "sound mode" in main options.  (Aceearly1993)  
+- "Exit Game" is now reallocated at the section accessible via the same logic as other main menu options to avoid player's confusions.   (Aceearly1993)  
+
+
+`CHANGED` - Nightmare Plant, Anna V.V., Death, Duke Guillecourt: Post hit flash effect changed in order to make their post-hit flash less visually aggressive.    (Aceearly1993)  
 `CHANGED` - Rivoire Cave: A spot in one vertical climbing section in order to make the backtracking in Ring of Fury mode more fair. (Aceearly1993)  
 `CHANGED` - Albaret Earldom: A spot in one vertical climbing section in order to make the backtracking in Ring of Fury mode more fair. (Aceearly1993)  
-`ADDED` - Readme: Warning of V-sync off (experimental).  
+`CHANGED` - Sarelle Cemetery: Color of a box object in order to make it slightly more clear that it cannot be climbed.  (Aceearly1993)  
+`ADDED` - Boss Rush: Quick retry function and its regulations in order to fit the latest change of title screen and reduce repetitiveness of boss rush retry.  (Aceearly1993)  
+`ADDED` - Global control events: Xbox controller input added left stick detection of joystick slots 2, 3 and 4 plus their hot-replug mechanic 
+in order to fit the latest update of controller detection system. (Aceearly1993)  
+`ADDED` - Readme: Warning of V-sync off (experimental).  (Aceearly1993)  
+`ADDED` - A trigger so that it's possible to toggle jumping sound on/off by will in order to fit player's personal preference.  (Aceearly1993)  
+`FIXED` - Altar: Eliminated a negative phenomenon which decisive battle music in ending A route suddenly changed to ambiance
+ if enter 3 count bosses room and immediately backtrack to ritual room before the 3 count bosses are awaken. (Aceearly1993)  
+`FIXED` - Global control events: Now the game is capable to receive input from joystick slots 2, 3 and 4 instead of only capable to detect joystick slot 1. (Aceearly1993)  
 
 
 
