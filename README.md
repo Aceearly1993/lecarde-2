@@ -23,6 +23,14 @@ The release of Lecarde Chronicles 2 got permitted by Konami, the game and its as
 
 To get the reworked game builds, go to "Releases", choose the latest "v*. *. *-alpha" tag and find the .exe files in the "Game Binary" zipped file. The .exe file is the generated executable, while the .mfa file in "Source Code" zipped file fis the (recovered) Clickteam Fusion project file necessary to generate the .exe (note in this game's case, it requires some extensions from Clickteam Fusion 2.5 Developer builds to be opened). 
 
+
+The "Alternate build method" branch is only needed if the initial build method did not work.
+
+The "native aspect ratio stretched" branch is only needed if you did not like the intended aspect ratio (force 4:3).
+
+They are put there only to fulfill more personal preferences that a lot of people demanded them.
+
+
 Note that the original game is infamous for the compatibility issue for PS4/Xbox controllers if your computers are unlucky so it left the controller preference blank. Here's a valid workaround to this issue if you encountered it like us:
 
 In Control Panel→ Devices and printers, find PS4 controller (usually labeled as "Wireless Controller"), right click "Wireless Controller" label to find controller setting, then click "advance..." to go into advance setting of "Wireless Controller", and be sure the "Wireless Controller" is checked as the preference.
@@ -67,7 +75,7 @@ This file must be placed in the same directory the game locates if you downloade
 
 #### NEW Hotkey Functions #### 
 
-- (At video setting screen) Toggle anti-alias on/off: F5/F6
+- Controller re-connect hotkey if auto recognization upon re-plug fails: F6
 
 To make the game display 1:1 pixel perfect scale:
 - You must make sure the display monitor's vertical size is above 1000.
