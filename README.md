@@ -118,6 +118,12 @@ frame rate problem in fullscreen mode.
 
 ## Changelog
 
+#### [1.6.2] - 2026/2/11 #### 
+
+`CHANGED` - Upgraded the game's engine to Clickteam Fusion 2.5+ revision 296.9.  (Aceearly1993)  
+`CHANGED` - Equipment menu: Some German terms which are subjects to change in enemy description.  (Exorion Hagen)  
+
+
 #### [1.6.1] - 2025/11/3 #### 
 
 `CHANGED` - Fully revamped title screen function.  
