@@ -122,6 +122,7 @@ frame rate problem in fullscreen mode.
 
 `CHANGED` - Upgraded the game's engine to Clickteam Fusion 2.5+ revision 296.9.  (Aceearly1993)  
 `CHANGED` - Equipment menu: Some German terms which are subjects to change in enemy description.  (Exorion Hagen)  
+`CHANGED` - Hell Picture (Boss): Post-hit flash color changed to not aggressive. (Aceearly1993)  
 
 
 #### [1.6.1] - 2025/11/3 #### 
