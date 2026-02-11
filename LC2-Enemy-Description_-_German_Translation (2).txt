@@ -3,16 +3,16 @@ Nr.1 Skelett
 "Reanimiert durch dunkle Künste, wirft gefährliche Knochen."
 
 Nr.2 Römischer Zombie
-"Der belebte Leichnahm eines Soldaten, gestorben im Marsch durch das alte Rom."
+"Der belebte Leichnam eines Soldaten, gestorben im Marsch durch das alte Rom."
 
 Nr.3 Nachtspinne
 "Durch die dunklen Mächte wurden diese Spinnen bedeutsam aggressiver."
 
 Nr.4 Toter Flohmann
-"Die wiedererweckten Kadaver eines Flohmann, gerufen von den dunklen Mächten."
+"Der wiedererweckte Kadaver eines Flohmann, gerufen von den dunklen Mächten."
 
 Nr.5 Vampirfledermaus
-"Eine blutsaugendes Tier gesteuert durch die dunklen Mächte."
+"Ein blutsaugendes Tier gesteuert durch die dunklen Mächte."
 
 Nr.6 Römisches Skelett
 "Skelettartige, reanimierte Reste tapferer Soldaten aus dem antiken Rom."
@@ -21,13 +21,13 @@ Nr.7 Colossus
 "Ein Riese welcher zu Lebzeiten zur Elite gehörte."
 
 Nr.8 Medusastatue (Boss)
-"Auf hartem Stein, gemeißelt nach dem Abbild von Medusa."
+"Aus hartem Stein, gemeißelt nach dem Abbild von Medusa".
 
 Nr.9 Steinschlange
-"Generiert durch Medusas Statue."
+"Generiert durch Medusas Statue".
 
 Nr.10 Riesenkrähe
-"Durch Dunkelheit mutiert, immer nagend an Leichen."
+"Durch Dunkelheit mutiert, immer nagend an Leichen".
 
 Nr.11 Troll
 "Dieses Wesen wirft Brocken in unvorhersehbaren Bögen."
@@ -42,10 +42,10 @@ Nr.14 Riesenwespe
 "Der Stachel dieser Riesenwespe kann spielend Beute durchbohren."
 
 Nr.15 Bienenstock
-"Diese Nester sind aufgrund der sich ausbreitenden Macht des Bösen unverzehrbar geworden."
+"Diese Nester sind aufgrund der sich ausbreitenden Macht des Bösen ungeniessbar geworden."
 
 Nr.16 Blutvirus
-"Höchstgefährliche Parasit, lebt in Blut und nährt sich davon."
+"Höchstgefährlicher Parasit, lebt in Blut und nährt sich davon."
 
 Nr.17 Überwucherter Mann
 "Das Ergebnis wenn eine Une ihr Opfer vollständig befallen hat."
@@ -62,7 +62,7 @@ Nr.20 Besessener Baum (Boss)
 "Dieser böswillige Geist bedient sich eines antiken Baumes um Lecarde zu stoppen."
 
 Nr.21 Monsterpflanze
-"Mutierte Pflanze welche ihre tötliche Saat verteilt."
+"Mutierte Pflanze welche ihre tödliche Saat verteilt."
 
 Nr.22 Toter Medusenkopf
 "Abgeworfene Monster von Medusa selbst welche nach einer Weile durch diese Trennung als Leichen enden."
@@ -86,7 +86,7 @@ Nr.28 Ektoplasma
 "Wollartige Substanz, angeblich die manifestierte Reue von Toten." 
 
 Nr.29 Knochensäule
-"Durch Magie angetriebener Dinosaurierkopf, auch ohne Haut extrem tödlich."
+"Durch Magie angetriebener Dinosaurierkopf, auch ohne Haut extrem tödlich".
 
 Nr.30 Jeanne De Servigny (Boss)
 "Einstige Herzogin Servignys (1585 bis 1668). Dunkle Mächte zwingen sie als ruheloser Geist zu spuken."
@@ -98,7 +98,7 @@ Nr.32 Riesenrabe
 "Die dunklen Mächte aus der Grafschaft La Tourvelle erzeugten dieses unnatürliche Wachstum."
 
 Nr.33 Toxinspinne
-"Pervertierte Spinnentiere welche Giftmasse spucken können."
+"Pervertierte Spinnentiere die Giftmasse spucken können."
 
 Nr.34 Todespilz
 "Die Sporen dieses dämonischen Pilzes reichen weit und sind tödlich."
@@ -121,7 +121,7 @@ Nr.39 Frostauge
 "Trotz seines Aggregatzustands kann dieses Wesen frei durch die Luft schweben."
 
 Nr.40 Gefrierknochen
-"Einstige Bewohner des Bezirks La Perdrix welche der tötlichen Kälte zum Opfer fielen."
+"Einstige Bewohner des Bezirks La Perdrix welche der tödlichen Kälte zum Opfer fielen."
 
 Nr.41 Eisschatten
 "Durchtriebenes Gespenst mit der Macht die Luft gefrieren zu lassen."
@@ -219,7 +219,7 @@ Nr.71 Unterweltqualle
 "Bösartige Seekreatur aus dem Reich der Dämonen."
 
 Nr.72 Gefallene Nonne
-"Einstige Schwestern aus dem lokalen Kloster, verführt durch das Böse."
+"Einstige Schwestern aus dem lokalen Kloster, verführt durch das Böse".
 
 Nr.73 Tarantula
 "Die Größe und Stärke dieses Wesens wurde ums Zwanzigfache gesteigert. Extrem giftig."
@@ -228,7 +228,7 @@ Nr.74 Rötliches Ektoplasma
 "Angefüllt mit dem Blut aller bisherigen Opfer."
 
 Nr.75 Constance D' Albaret (Boss)
-"Vergangene Leiterin des Konvent (1740 bis 1781). Als Dämonen einfiehlen stahl sie ein dekoratives Kruzifix."
+"Vergangene Leiterin des Konvent (1740 bis 1781). Als Dämonen einfielen stahl sie ein dekoratives Kruzifix."
 
 Nr.76 Riesenschleim
 "Eine Mikrobe umhüllt mit einer geleeartigen Substanz."
@@ -262,7 +262,7 @@ Nr.84 Kopfloser Zombie
 Nr.85 Verurteilter Mörderer
 "Auch als Geist wandelt dieses Wesen mit tödlicher Absicht umher."
 
-Nr.86 Teuflicher Kopf
+Nr.86 Teuflischer Kopf
 "Unheilige Kreaturen, entsprungen aus der Bosheit des Schlosses der Ewigen Nacht."
 
 Nr.87 Goldgeschuppter Drache
@@ -306,8 +306,8 @@ Nr.98 Schwebendes Gemälde
 Nr.99 Moderne Kunst
 "Steinstatuen mit komplexer Technik gehauen, für viele künstlich zu anspruchsvoll."
 
-Nr.100 Makaberes Kunstwerk
-"Enstanden aus verschiedensten Menschenteilen."
+Nr.100 Makabres Kunstwerk
+"Entstanden aus verschiedensten Menschenteilen."
 
 Nr.101 Teufelsabbild (Boss)
 "Ein riesiges Gemälde, versiegelte bereits Tausende in sich."
@@ -316,7 +316,7 @@ Nr.102 Herbstgeist
 "Schüchterne Wesen welche Blätter nutzen um sich vor Menschen zu verstecken."
 
 Nr.103 Grabräuber
-"Zu jeder Zeit bringen diese Skelette den Hauch des Todes mitsich."
+"Zu jeder Zeit bringen diese Skelette den Hauch des Todes mit sich."
 
 Nr.104 Eisvogel
 "Durch Dämonen besessenes Eis in Form eines anmutigen Vogels."
@@ -393,7 +393,7 @@ Nr.127 Umherirrender Schädel
 "Anders als die schwebenden Köpfe kann dieses Wesen mangels physischer Hülle nicht von Menschen wahrgenommen werden." 
 
 Nr.128 Zombiezofe
-"Perönliche Dienerinnen, zusammen beigelegt mit Anna Von Viltheim."
+"Persönliche Dienerinnen, zusammen beigelegt mit Anna Von Viltheim."
 
 Nr.129 Adelskutsche
 "Diese edle Sänfte wird von einer kopflosen Dame genutzt, getragen von zwei Skelettdienern."
@@ -402,7 +402,7 @@ Nr.130 Blütenmaid
 "Zu jeder Zeit säubern sie das Grab ihrer einstigen Herrin Anna Von Viltheim."
 
 Nr.131 Anna Von Viltheim (Boss)
-"Der Leichnahm der einstigen Herrin, für Jahrhunderte durch Flüche gefoltert."
+"Der Leichnam der einstigen Herrin, für Jahrhunderte durch Flüche gefoltert."
 
 Nr.132 Leviathan (Boss)
 "Eine gigantische Verschmelzung menschlicher Kadaver."
@@ -428,7 +428,7 @@ Nr.138 Illusionist (Boss)
 "Der Herr der Illusionskammer nutzt seine Macht um Feinde zu verwirren."
 
 Nr.139 Teufelsanbeter Omega
-"Fanatischer Teufelsgefälliger, wirft Glaskolbel gefüllt mit finterer Materie."
+"Fanatischer Teufelsgefälliger, wirft Glaskolben gefüllt mit finsterer Materie."
 
 Nr.140 Schützenmeister
 "Bogenführende Eliteritter, bewachen den wichtigsten Ort des Schlosses."
