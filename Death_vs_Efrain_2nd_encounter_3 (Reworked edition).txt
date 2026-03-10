@@ -1,99 +1,174 @@
 DEATH'S DIALOGUE:
 
 
-ENG
--Placing your sword here worked better than I expected...
+ENG (ThePlotTwist, Jeffrey Montoya)
 
--All darkness belongs under Lord Dracula's heel. Yet, Lucifer's worshippers intruded on that design...
+All darkness belongs under Lord Dracula's heel.
 
--I required holy power to remove them, and you fulfilled that role beyond my wildest expectations!
+Yet Lucifer's worshippers contradict that design.
 
--Now only the Duke remains. I shall deal with him personally. This castle will soon belong to my master...
+They seek him to bring eternal day before my Lord's eternal night. Miserable accolites!
 
--You, however, are no longer of any use to me. Meet my blade, Efrain Lecarde!
+This could not be. And thus, I required holy power to remove them.
 
+Placing your sword here worked better than I expected!
 
-CHS
-又见面了，李卡德！你的剑比我想象中更有用...
-
-哼，这座城跟它的邪恶力量是属于德古拉大人的。可惜还是让路西法的狗打乱了计划...
-
-我需要神圣力量来清除那些杂碎，而你可来得真巧，正好帮了我大忙啊！
-
-现在碍事的只有那个亨利公爵了，做掉他只是时间问题...我的主人马上就要回到这座城了...
-
-至于你，艾尔弗林.李卡德... 你现在对我而言没有用处了。钟响之时即是你绝命之刻！
+So now that you have done my bidding, I shall have your soul!
 
 
-ITA
--Porre la tua spada qui ha funzionato meglio di quanto mi aspettassi...
-
--Tutte le tenebre sono sotto il controllo di Lord Dracula. Ciononostante, gli adoratori di Lucifero si sono intromessi nel nostro piano...
-
--Avevo bisogno di un potere santo per rimuoverli, e tu hai adempiuto quel ruolo al di l?delle mie pi?rosee aspettative!
-
--Soltanto il Duca rimane ora. Me ne occuper?personalmente. Questo castello presto apparterr?al mio padrone...
-
--Tuttavia, non mi servi pi?a nulla. Assaggia la mia lama, Efrain Lecarde!
 
 
-GER
-Dein Schwert hier abzulegen klappte besser als ich dachte...
-Sämtliche Dunkelheit untersteht Fürst Dracula! Jedoch stören Luzifers Jünger dieses Vorhaben...
-Ich benötigte heilige Macht um sie zu verdrängen und du erfülltest diese Rolle jenseits meiner kühnsten Erwartungen!
-Nun verbleibt lediglich der Herzog. Ich werde mich seiner persönlich annehmen. Dieses Schloss wird schon bald meinem Meister gehören.
-Du, jedoch, bist mir von keinem Nutzen mehr. Mache Bekanntschaft mit meiner Klinge, Efrain Lecarde!
+FRA (Chernabogue)
+
+Toutes les ténèbres sont sous le joug du Seigneur Dracula.
+
+Cependant, les adorateurs de Lucifer font barrage à ce dessein.
+
+Ils le cherchent pour faire dominer le jour éternel sur la nuit éternelle de notre seigneur. Misérables acolytes !
+
+Cela n'était pas possible. C'est pourquoi j'ai eu besoin de la puissance divine pour les éliminer.
+
+Placer ton épée ici a fonctionné mieux que prévu !
+
+Maintenant que tu as accompli ma volonté, je vais m'emparer de ton âme !
 
 
-FRA
-Placer ton épée ici a mieux marché que je l'attendais...
-Toutes les ténèbres doivent être sous le contrôle de Dracula, notre maitre. Mais les serviteurs de Lucifer sont venus contrecarrer nos plans...
-J'avais besoin d'un pouvoir sacré pour me débarrasser d'eux et tu as joué ton rôle à la perfection !
-A présent, il ne reste que le Duc. Je m'occuperai de lui personnellement. Ce château appartiendra bientôt à mon maitre...
-Tu ne m'es plus d'aucune utilité à présent. Meurs par mon épée, Efrain Lecarde !
 
-JPN
-あなたの剣をここまで効果を発揮するは、予想以上にうまくいった...。
+ESP  (Jorge D. Fuentes)
 
-すべての闇の勢力はドラキュラ様の元に属すべき。しかし、ルシファーの崇拝者たちは城を侵入し計画を壊した......。
+Toda la oscuridad pertenece bajo el talón del Señor Drácula.
 
-私はそれらを取り除くために聖なる力を求めたが、あなたは私の想像を超えてその役割を果たした！
+Aun así, los adoradores de Lucifer contradicen ese plan.
 
-残るは公爵だけだ。私が個人的に対処しよう。この城はすぐに私の主人のものになる...
+Ellos buscan que el traiga el día eterno antes la noche eterna de mi Señor. Acólitos miserables!
 
-しかし、お前はもはや私の役には立たない。私の刃を堪能するといい！エフレイン・リカード！
+Esto no puede ocurrir, y por eso requería su poder sagrado para removerlos.
+
+Poniendo tu espada aquí resultó mejor que yo lo esperaba...
+
+Ahora que ya haz hecho mis órdenes, reclamaré tu alma!
 
 
-PT-BR
--Placing your sword here worked better than I expected...
--Trazer sua espada para este lugar funcionou melhor do que eu esperava...
 
 
--All darkness belongs under Lord Dracula's heel. Yet, Lucifer's worshippers intruded on that design...
--Toda escuridão pertence ao Lorde Drácula. Porém, os adoradores de Lucifer atrapalharam este plano...
+GER (Exorion Hagen)
+
+"All darkness belongs under Lord Dracula's heel."
+Alles an Dunkelheit gehorcht unter Lord Draculas Hand.
+
+"Yet Lucifer's worshippers contradict that design."
+Und doch stehen die Verehrer Luzifers im Widerspruch zu diesem Plan.
+
+"They seek him to bring eternal day before my Lord's eternal night. Miserable accolites!"
+Sie sehnen sich nach Seinem ewigen Licht gegen die immerwährende Nacht meines Herren. Elende Diener Luzifers!
+
+"This could not be. And thus, I required holy power to remove them."
+Dies durfte nicht sein. Und so bediente ich mich heiliger Macht um sie zu beseitigen.
+
+"Placing your sword here worked better than I expected!"
+Dein Schwert hier zu platzieren hat besser funktioniert als erwartet!
+
+"So now that you have done my bidding, I shall have your soul!"
+Nun da du mir ausgedient hast werde ich mir deine Seele einverleiben!
 
 
--I required holy power to remove them, and you fulfilled that role beyond my wildest expectations!
--Eu precisava de poder sagrado para removê-los, e você cumpriu este papel de forma exemplar!
+
+ITA (Daedalus007's take)
+
+Tutta l'oscurità appartiene al dominio di Lord Dracula.
+
+Eppure i seguaci di Lucifero contraddicono questo disegno.
+
+Lo cercano per portare il giorno eterno prima della notte eterna del mio Signore. Miserabili accoliti!
+
+Questo non può essere. E così, ho richiesto il potere sacro per eliminarli.
+
+Porre la tua spada qui ha funzionato meglio di quanto mi aspettassi!
+
+Ora che hai eseguito il mio ordine, avrò la tua anima!
 
 
--Now only the Duke remains. I shall deal with him personally. This castle will soon belong to my master...
--Agora resta apenas o Duque. Lidarei com ele pessoalmente. Este castelo logo
-pertencerá ao meu mestre...
+
+ITA (Shüan's take)
+
+Tutta l'oscurità deve stare sotto il dominio del Conte Dracula. 
+
+Eppure i fanatici di Lucifero vogliono contraddire questo fatto.
+
+Loro pianificano di offrirgli il dì eterno prima ancora che venga portata al mio Signore la notte eterna. Maledetti accoliti!
+
+Questo non poteva accadere. E quindi, ho avuto bisogno di un potere sacro per eliminarli.
+
+Mettere qui la tua spada ha funzionato persino meglio di quanto mi aspettassi!
+
+E adesso, ora che hai soddisfatto i miei desideri, mi impossesserò della tua anima!
 
 
--You, however, are no longer of any use to me. Meet my blade, Efrain Lecarde!
--Você, no entanto, já cumpriu seu papel. Experimente minha lâmina, Efrain Lecarde!
+
+JPN (狼王之2代)
+
+-すべての闇は、ドラキュラ様の足元にひざまずくべきもの。
+
+-だが、ルシファーを崇める者どもが、その理（ことわり）に背こうとしている！
+
+-彼らは、我が主の「無限の夜」を差し置いて、「無限の昼」を招こうなどと……。哀れな信者どもめ！
+
+そんなことは許さぬ。だからこそ、やつらを排除ために貴様が持つ聖なる力が必要なのだ。
+
+-ここに剣を置いたのは予想以上に効果的だった…
+
+さあ、用が済んだところで……貴様の魂をいただくとしようか。
 
 
-SPA
 
--Hacer que pongas tu espada aqui, funcionó mucho mejor de lo que anticipaba...
+PT-BR (Asvel's take)
 
--Toda la oscuridad pertenece bajo la orden del Señor Dracula.  Pero los devotas a Lucifer se entrometieron en ese plan...
+-Toda escuridão pertence ao domínio do Lorde Drácula.
 
--¡Requiría poder santo para removelos, y tu cumpliste esa función mucho mejor que mis anticipaciones!
+-Ainda assim, os adoradores de Lúcifer se opõem a esse plano!
 
--Ahora solamente queda el Duque.  Yo me ocuparé con él, personalmente.  Este castillo pronto pertenecerá a mi patrón...
+-Eles o procuram para trazer o dia eterno antes da noite eterna do meu Senhor. Acólitos miseráveis!
 
--Pero tú, tú ya no tienes ningún propósito para mí.  ¡Prepárate a enfrentarte contra mi Filo, Efrain Lecarde!
+-Isso não podia acontecer, e por isso precisei do seu poder sagrado para removê-los.
+
+-Colocar sua espada aqui funcionou melhor do que eu esperava...
+
+-Agora que você fez minha vontade, terei sua alma!
+
+
+
+PT-BR (ThePlotTwist's take)
+
+All darkness belongs under Lord Dracula's heel.
+Toda escuridão pertence aos pés do Lorde Drácula.
+
+Yet Lucifer's worshippers contradict that design.
+Porém, os adoradores de Lúcifer contradizem este desígnio.
+
+They seek him to bring eternal day before my Lord's eternal night. Miserable acolytes!
+Eles o buscam para trazer dia eterno antes da noite eternal do meu Lorde. Devotos miseráveis!
+
+This could not be. And thus, I required holy power to remove them.
+Não posso permitir isso. Então, precisei de poder sagrado para removê-los.
+
+Placing your sword here worked better than I expected!
+Colocar sua espada aqui funcionou melhor do que eu esperava!
+
+So now that you have done my bidding, I shall have your soul
+E agora que você realizou minha vontade, eu terei a sua alma!
+
+
+
+CHS (Aceearly1993)
+
+又见面了，李卡德！这座城跟它的邪恶力量是属于德古拉大人的。
+
+可惜还是让那些路西法的信徒打乱了计划...
+
+他们想用路西法的无尽光辉对抗吾主的无尽黑暗。真是些可悲的蠢材！
+
+我不会让他们得逞的，所以我借了你的剑里的神圣力量把他们打发了。
+
+而李卡德，把你带到这里的效果比我想象中还要好！
+
+既然你已经替我解决了这么多麻烦，那么你的灵魂我就收下了！
