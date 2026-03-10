@@ -118,6 +118,19 @@ frame rate problem in fullscreen mode.
 
 ## Changelog
 
+#### [1.6.3] - 2026/3/11 #### 
+
+`CHANGED` - Revamp the Death 2nd encounter dialogue:   
+English/Portuguese/Simplified Chinese - The Lecarde 2 rework project team (Aceearly1993, ThePlotTwist, Jeffrey Montoya)  
+French - Chernabogue   
+Spanish - Jorge Fuentes   
+German - Exorion Hagen   
+Italian - Daedalus007/Shüan   
+Japanese - 狼王之2型   
+  
+`CHANGED` - Voice files to reflect the changed Death 2nd encounter dialogue. (Jeffrey Montoya)  
+
+
 #### [1.6.2] - 2026/2/11 #### 
 
 `CHANGED` - Upgraded the game's engine to Clickteam Fusion 2.5+ revision 296.9.  (Aceearly1993)  
