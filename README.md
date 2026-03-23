@@ -129,6 +129,8 @@ Italian - Daedalus007/Shüan
 Japanese - 狼王之2型   
   
 `CHANGED` - Voice files to reflect the changed Death 2nd encounter dialogue. (Jeffrey Montoya)  
+`FIXED` - A irregular phenomenon where Aura Blast can be wrongly canceled by flipping down from platform during Aura Blast motion. (Aceearly1993)   
+
 
 
 #### [1.6.2] - 2026/2/11 #### 
@@ -136,6 +138,7 @@ Japanese - 狼王之2型
 `CHANGED` - Upgraded the game's engine to Clickteam Fusion 2.5+ revision 296.9.  (Aceearly1993)  
 `CHANGED` - Equipment menu: Some German terms which are subjects to change in enemy description.  (Exorion Hagen)  
 `CHANGED` - Hell Picture (Boss): Post-hit flash color changed to not aggressive. (Aceearly1993)  
+
 
 
 #### [1.6.1] - 2025/11/3 #### 
