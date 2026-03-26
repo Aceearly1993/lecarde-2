@@ -130,6 +130,7 @@ Japanese - 狼王之2型
   
 `CHANGED` - Voice files to reflect the changed Death 2nd encounter dialogue. (Jeffrey Montoya)  
 `FIXED` - A irregular phenomenon where Aura Blast can be wrongly canceled by flipping down from platform during Aura Blast motion. (Aceearly1993)   
+`FIXED` - Two typos with English text script.  (Aceearly1993)  
 
 
 
