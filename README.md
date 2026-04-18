@@ -129,8 +129,12 @@ Italian - Daedalus007/Shüan
 Japanese - 狼王之2型   
   
 `CHANGED` - Voice files to reflect the changed Death 2nd encounter dialogue. (Jeffrey Montoya)  
-`FIXED` - A irregular phenomenon where Aura Blast can be wrongly canceled by flipping down from platform during Aura Blast motion. (Aceearly1993)   
+`CHANGED` - Very subtle adjust to a spike in a vertical climb section at Guernon University order to reduce player's frustration.  (Aceearly1993)  
+`FIXED` - A irregular phenomenon where Aura Blast can be wrongly canceled by flipping down from platform during Aura Blast motion. (Aceearly1993)  
 `FIXED` - Two typos with English text script.  (Aceearly1993)  
+`FIXED` - Alucard Boss Rush: A minor inconsistency at the background effect graphic of Soul Steal spell so that the background effect graphic will
+always follow the game's camera movement.  (Aceearly1993)  
+
 
 
 
