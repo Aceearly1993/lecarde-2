@@ -115,6 +115,8 @@ frame rate problem in fullscreen mode.
 
 - If quickly unfocus the game window when holding a direction key at title menu, then focus back, the game's direction input will stuck. This is because the reworked game requires Control X plugin to sufficiently apply newly assigned Keyboard key input dynamically (in DragonX24's remodeled key assign formula) with the structure of such plugin is unfortunately too old and can generate issues with LC2 structure. Shouldn't get in the way of normal gameplay though.
 
+### Rules on Submitting a Translation error ###
+The text script is well established in 2 years and not really a subject to be dispatched again and again; Please submit a translation error only when the errors are serious and inconsistency is huge enough. Hope we can earn your understandings.
 
 ## Changelog
 
@@ -140,6 +142,7 @@ Also added pre-input of these weapons so that the input of a second jumping slas
 `FIXED` - Two typos with English text script.  (Aceearly1993)  
 `FIXED` - Alucard Boss Rush: A minor inconsistency at the background effect graphic of Soul Steal spell so that the background effect graphic will
 always follow the game's camera movement.  (Aceearly1993)  
+`FIXED` - An inconsistency in the German script so that in equipment menu, Lecarde Sword will be displayed as "LecardeSchwert" like in pickup window instead of displaying "Lecardekilnge". (Soul D. Sol)  
 
 
 
