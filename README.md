@@ -136,14 +136,15 @@ Japanese - 狼王之2型
 `CHANGED` - Melee attack: Priority of following weapons when repeatedly attacking on ground is adjusted to be more like SotN swords:
 -Alucard sword when equipped by Alucard himself.  
 -Light Saber, Courtoise, VV sword, Lecarde Sword.  
-Added new regulations to these weapons so that the after deal of a slash can be canceled by jumping.  
 Also added pre-input of these weapons so that the input of a second jumping slash is less likely to get lost. (Aceearly1993)  
+`CHANGED` - Added new regulations to the high-rank weapons so that the after deal of a slash can be canceled by jumping.  (Aceearly1993)  
 `CHANGED` - Illusionist (boss): Post-hit flash color changed to be not aggressive. (Aceearly1993)  
 `FIXED` - A irregular phenomenon where Aura Blast can be wrongly canceled by flipping down from platform during Aura Blast motion. (Aceearly1993)  
 `FIXED` - Two typos with English text script.  (Aceearly1993)  
 `FIXED` - Alucard Boss Rush: A minor inconsistency at the background effect graphic of Soul Steal spell so that the background effect graphic will
 always follow the game's camera movement.  (Aceearly1993)  
 `FIXED` - An inconsistency in the German script so that in equipment menu, Lecarde Sword will be displayed as "LecardeSchwert" like in pickup window instead of displaying "Lecardekilnge". (Soul D. Sol)  
+
 
 
 
