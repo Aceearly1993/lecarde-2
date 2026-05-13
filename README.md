@@ -118,6 +118,15 @@ frame rate problem in fullscreen mode.
 ### Rules on Submitting a Translation error ###
 The text script is well established in 2 years and not really a subject to be dispatched again and again; Please submit a translation error only when the errors are serious and inconsistency is huge enough. Hope we can earn your understandings.
 
+
+Discuss the reworked version of Lecarde 1 and Lecarde 2:   
+https://discord.gg/yuS7VjPfYM 
+
+
+Discuss more Migami games works (mainly their works AFTER their transition into a commercial studio): 
+https://discord.gg/uAVxVqmZXx  
+
+
 ## Changelog
 
 #### [1.6.3] - 2026/3/11 #### 
@@ -144,7 +153,7 @@ Also added pre-input of these weapons so that the input of a second jumping slas
 `FIXED` - Alucard Boss Rush: A minor inconsistency at the background effect graphic of Soul Steal spell so that the background effect graphic will
 always follow the game's camera movement.  (Aceearly1993)  
 `FIXED` - An inconsistency in the German script so that in equipment menu, Lecarde Sword will be displayed as "LecardeSchwert" like in pickup window instead of displaying "Lecardekilnge". (Soul D. Sol)  
-
+`FIXED` - An oversight which the indication text of "Ring of Fury mode" will wrongly appear at file deletion screen in unwanted situations. (Aceearly1993)  
 
 
 
