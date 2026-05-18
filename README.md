@@ -155,6 +155,7 @@ Also added pre-input of these weapons so that the input of a second jumping slas
 always follow the game's camera movement.  (Aceearly1993)  
 `FIXED` - An inconsistency in the German script so that in equipment menu, Lecarde Sword will be displayed as "LecardeSchwert" like in pickup window instead of displaying "Lecardekilnge". (Soul D. Sol)  
 `FIXED` - An oversight which the indication text of "Ring of Fury mode" will wrongly appear at file deletion screen in unwanted situations. (Aceearly1993)  
+`FIXED` - A bug which the timer obj will not be hidden if you keep taking damage on spike, stationery enemies etc.. when the invincibility potion timer is about to wear off.   (Aceearly1993)  
 
 
 
