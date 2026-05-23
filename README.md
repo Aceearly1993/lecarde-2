@@ -42,10 +42,13 @@ If your controller is NS type we cannot guarantee if it works 100% (too much pro
 
 #### PC Specification Requirements #### 
 
-CONFIGURATION: 
-(Based upon vanilla game's DX9 mode) Windows XP / Vista / 7 / 8 / 10  
-Processor Intel Core2Duo 2.20GHZ or higher - Memory 1GB  Ram- 
-500 MB free Hard drive space - Video Card Direct 3D9 Compatible 
+CONFIGURATION:   
+(Based upon vanilla game's DX9 mode)   
+System OS: Windows XP / Vista / 7 / 8 / 10   
+Processor: Intel Core2Duo 2.20GHZ or higher - Memory 1GB  Ram-   
+
+500 MB free Hard drive space   
+Video Card: Direct 3D9 Compatible   
 
 
 #### Read this if you encountered random crash exit when pausing #### 
