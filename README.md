@@ -141,6 +141,16 @@ https://discord.gg/uAVxVqmZXx
 
 ## Changelog
 
+#### [1.6.4] - 2026/5/25 #### 
+
+
+`CHANGED` - Delete save file: Another sound effect will be occupied in the execution of deletion so that it will no longer be reusing the confirm sound. (Aceearly1993)  
+`CHANGED` - Alucard: Added a few startup frame in Soul Steal spell animation so that it looks slightly more natural. (Aceearly1993)  
+`CHANGED` - A QoL enhancement implemented so that the Invincibility potion timer/Alucard's vanish spell timer will no longer be reset by another aura blast spell. (Aceearly1993)  
+`FIXED` - Main character movement: Eliminated a negative behavior which the Divine Sword aura blast motion will be broken after performing a regular slash in between charging and release motions. (Aceearly1993)  
+`FIXED` - Alucard Boss rush: A graphical priority bug occured in rare circumstances that the sword object will appear in Aura Blast and Whirlwind motions where it really shouldn't. (Aceearly1993)  
+
+
 #### [1.6.3] - 2026/3/11 #### 
 
 `CHANGED` - Revamp the Death 2nd encounter dialogue:   
