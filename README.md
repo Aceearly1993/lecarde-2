@@ -149,6 +149,10 @@ https://discord.gg/uAVxVqmZXx
 `CHANGED` - A QoL enhancement implemented so that the Invincibility potion timer/Alucard's vanish spell timer will no longer be reset by another aura blast spell. (Aceearly1993)  
 `FIXED` - Main character movement: Eliminated a negative behavior which the Divine Sword aura blast motion will be broken after performing a regular slash in between charging and release motions. (Aceearly1993)  
 `FIXED` - Alucard Boss rush: A graphical priority bug occured in rare circumstances that the sword object will appear in Aura Blast and Whirlwind motions where it really shouldn't. (Aceearly1993)  
+`FIXED` - Garden of the Dead: Fixed a irregular behavior if for some reason you get 2 chalices before triggering the first statue's activation zone for the first time. (Aceearly1993)  
+`FIXED` - Altar: Always return a variable to 0 so that the final boss trigger zone will always be possible to trigger, overriding the whatever saved variable in the save file. (Aceearly1993)  
+
+
 
 
 #### [1.6.3] - 2026/3/11 #### 
