@@ -141,6 +141,14 @@ https://discord.gg/uAVxVqmZXx
 
 ## Changelog
 
+#### [1.6.5] - 2026/6/18 #### 
+
+`ADDED` - More original event notes in the project file. (Aceearly1993)  
+`ADDED` - Double jump/triple jump: Added several pre-input frames so that they can be performed after an air dash much easier than before. (Aceearly1993) 
+
+
+
+
 #### [1.6.4] - 2026/5/25 #### 
 
 
