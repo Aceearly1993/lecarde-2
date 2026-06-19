@@ -144,7 +144,9 @@ https://discord.gg/uAVxVqmZXx
 #### [1.6.5] - 2026/6/18 #### 
 
 `ADDED` - More original event notes in the project file. (Aceearly1993)  
-`ADDED` - Double jump/triple jump: Added several pre-input frames so that they can be performed after an air dash much easier than before. (Aceearly1993) 
+`ADDED` - Double jump/triple jump: Added several pre-input frames so that they can be performed after an air dash much easier than before. (Aceearly1993)  
+`FIXED` - An oversight in the vanilla which will cause the bones skeleton type enemies thrown to stack in object counter and not properly erased when they flied beyond the camera. (Aceearly1993)  
+`FIXED` - A bug in the reworked support of Xbox triggers so that Whirlwind, air dash and air float will now be able to pull out properly with Xbox triggers. (Aceearly1993)  
 
 
 
