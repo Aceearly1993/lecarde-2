@@ -147,6 +147,7 @@ https://discord.gg/uAVxVqmZXx
 `ADDED` - Double jump/triple jump: Added several pre-input frames so that they can be performed after an air dash much easier than before. (Aceearly1993)  
 `FIXED` - An oversight in the vanilla which will cause the bones skeleton type enemies thrown to stack in object counter and not properly erased when they flied beyond the camera. (Aceearly1993)  
 `FIXED` - A bug in the reworked support of Xbox triggers so that Whirlwind, air dash and air float will now be able to pull out properly with Xbox triggers. (Aceearly1993)  
+`FIXED` - Garden of Deads: A bug in the collision system which will cause softlocks in unwanted situations. (Aceearly1993)  
 
 
 
