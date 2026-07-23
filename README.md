@@ -144,6 +144,7 @@ https://discord.gg/uAVxVqmZXx
 #### [1.6.6] - 2026/7/2 #### 
 
 `CHANGED` - Main hitbox: Due to player feedback, Main character Hurtbox fully separated from main collision box; Added a new collision box and shrink down the size of main character hurtbox.  (Aceearly1993)  
+`CHANGED` - Servigny Mansion: Minor adjust to make the Jeanne de Servigny sub-boss capable to defeat without having to take damages. (Aceearly1993)  
 `ADDED` - More original event notes in the project file. (Aceearly1993)  
 `FIXED` - A bug in the temporary fix of Issue #43 (related to Air Dash) where a second air dash will sometimes be lost when executed the first air dash, 
 and slash in mid air before landing, then jump again and attempt to do double air dash after the next jumping. (Aceearly1993)  
