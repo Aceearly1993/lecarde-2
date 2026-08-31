@@ -141,6 +141,11 @@ https://discord.gg/uAVxVqmZXx
 
 ## Changelog
 
+#### [1.6.7] - 2026/9/3 #### 
+
+`EXPERIMENT` - The joystick 2 object just received a sudden update out of nowhere. I cannot resist the temptation of any possible chance on improvements and will test the new version right in this release. (new version of object updated by NaitorStudios)  
+
+
 #### [1.6.6] - 2026/7/2 #### 
 
 `CHANGED` - Main hitbox: Due to player feedback, Main character Hurtbox fully separated from main collision box; Added a new collision box and shrink down the size of main character hurtbox.  (Aceearly1993)  
